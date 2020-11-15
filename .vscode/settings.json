@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "tweet",
+            "database": "${workspaceFolder:api}/tweet.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
